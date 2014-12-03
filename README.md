@@ -1,5 +1,6 @@
 AngelaSmith
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/MisterJames/GenFu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > **AngelaSmith** is a library you can use to generate realistic test data. It is composed of several *property fillers* that can populate commonly named properties through reflection using an internal database of values or randomly created data. You can override any of the fillers, give **AngelaSmith** hints on how to fill them, or easily extend the *property fillers* using extension methods or MEF.
 
